@@ -1,0 +1,6 @@
+{
+  "name": "Image to A4 PDF Converter",
+  "description": "Upload images and convert them into a single PDF file with each image scaled to fit an A4 page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
