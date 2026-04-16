@@ -1,6 +1,6 @@
 {
-  "name": "Image to A4 PDF Converter",
-  "description": "Upload images and convert them into a single PDF file with each image scaled to fit an A4 page.",
+  "name": "محول الصور إلى PDF (قياس A4)",
+  "description": "قم برفع صورك وتحويلها إلى ملف PDF واحد مع التحكم في وضع الملاءمة لصفحة A4.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
